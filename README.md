@@ -5,5 +5,5 @@
 * Rodar projeto
     * npm run dev
 * migrations
-    * migration:generate
-    * migration:run
+    * npm run migration:generate
+    * npm run migration:run
